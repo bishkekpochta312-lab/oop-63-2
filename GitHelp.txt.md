@@ -10,3 +10,9 @@ git commit -m "lesson1"
 git commit -m "update lesson1"
 git branch
 git push origin master
+
+py 
+python -m venv name_venv
+python3 -m venv name_venv
+
+name_venv\Scripts\activate
